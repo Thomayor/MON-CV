@@ -200,14 +200,13 @@ border-radius: 1em;
 @media screen and (max-width:438px){
 
 nav ul .test_nav{
-  font-size:13px;
+  font-size:11px;
   white-space: nowrap;
 }
 
 nav ul #logo_tel{
-margin-left: -35px;
+margin-left: -41px;
 }
-
 
 
 #pageprincipale  .titreh2{
